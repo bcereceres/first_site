@@ -1,0 +1,57 @@
+body{
+    background-color: #4A4A4A;
+    color: aqua;
+    text-indent: 10pt;
+}
+nav{
+    border: solid 2px black;
+}
+li{
+    display: inline;
+    line-height: 30px;
+    color: lightblue;
+
+}
+nav a{
+    background-color: gray;
+    padding: 5px;
+    margin: 20px;
+}
+a{
+    text-align: center;
+
+}
+#skip{
+    background-color: ghostwhite;
+    text-align: left;
+
+}
+h1{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, sans-serif;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+h2{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, sans-serif;
+    color:azure;
+}
+h3{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aquamarine;
+}
+p{
+    line-height: 25px;
+}
+img{
+    border: solid 5px black;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+.picture{
+    
+}
